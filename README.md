@@ -21,6 +21,7 @@
 
 ## 安装教程
 
+```bash
 ### 前端：
 
 node v20.1
@@ -33,11 +34,12 @@ npm install --registry=https://registry.npm.taobao.org
 
 #### 启动服务
 npm run dev
-
+```
 ### 后端
 
 java v1.8
-maven
+maven v3.0
+mysql v5.7
 
 #### 使用说明
 
