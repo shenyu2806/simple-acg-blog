@@ -37,9 +37,7 @@ npm run dev
 ```
 ### 后端
 
-java v1.8
-maven v3.0
-mysql v5.7
+java v1.8 | maven v3.0 | mysql v5.7
 
 #### 使用说明
 
