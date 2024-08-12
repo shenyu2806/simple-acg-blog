@@ -1,7 +1,7 @@
 ## 博客介绍
 
 <p align="center">
-   基于Springboot + Vue3 开发的前后端分离博客
+   基于Springboot + Vue2 开发的前后端分离博客
 </p>
 
 ![](https://gitee.com/fs529/bote_images_url/raw/master/simple-acg-blog/a1.png)
