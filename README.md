@@ -4,9 +4,7 @@
    基于Springboot + Vue3 开发的前后端分离博客
 </p>
 
-![](https://gitee.com/fs529/bote_images_url/raw/master/Sophisticated-acg-blog/ad1.jpg)
-![](https://gitee.com/fs529/bote_images_url/raw/master/Sophisticated-acg-blog/ad2.jpg)
-![](https://gitee.com/fs529/bote_images_url/raw/master/Sophisticated-acg-blog/ad3.jpg)
+![](https://gitee.com/fs529/bote_images_url/raw/master/simple-acg-blog/a1.png)
 
 ## 运行环境
 ### 前端
